@@ -1,0 +1,3 @@
+/home/matheusmendescc/Área de Trabalho/Curso Engenharia de Computação/P3/POO/Exercícios/Estudo por Fora/POO_Detran/cmake-build-debug/CMakeFiles/POO_Detran.dir
+/home/matheusmendescc/Área de Trabalho/Curso Engenharia de Computação/P3/POO/Exercícios/Estudo por Fora/POO_Detran/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheusmendescc/Área de Trabalho/Curso Engenharia de Computação/P3/POO/Exercícios/Estudo por Fora/POO_Detran/cmake-build-debug/CMakeFiles/rebuild_cache.dir
