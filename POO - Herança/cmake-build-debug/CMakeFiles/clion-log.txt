@@ -1,0 +1,4 @@
+/snap/clion/198/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/198/bin/ninja/linux/ninja -G Ninja -S "/home/matheusmendescc/Área de Trabalho/Curso Engenharia de Computação/P3/POO/Exercícios/Estudo por Fora/POO - Herança" -B "/home/matheusmendescc/Área de Trabalho/Curso Engenharia de Computação/P3/POO/Exercícios/Estudo por Fora/POO - Herança/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/matheusmendescc/Área de Trabalho/Curso Engenharia de Computação/P3/POO/Exercícios/Estudo por Fora/POO - Herança/cmake-build-debug

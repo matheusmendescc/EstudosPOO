@@ -1,0 +1,20 @@
+# ninja log v5
+196	243	1656783908900407657	Estudo_por_Fora	6dcec7ea1d262b66
+0	196	1656783908856407670	CMakeFiles/Estudo_por_Fora.dir/main.cpp.o	a9845495d67fb54
+1	179	1656785498128535802	CMakeFiles/Estudo_por_Fora.dir/Pessoa.cpp.o	fd5f036bc2a47275
+1	180	1656785498128535802	CMakeFiles/Estudo_por_Fora.dir/main.cpp.o	a9845495d67fb54
+1	192	1656785498140535820	CMakeFiles/Estudo_por_Fora.dir/Cliente.cpp.o	a2ee0c1859ee1959
+192	240	1656785498188535892	Estudo_por_Fora	46777547fc8c19ff
+0	180	1656787453917524389	CMakeFiles/Estudo_por_Fora.dir/main.cpp.o	a9845495d67fb54
+0	182	1656787453921524392	CMakeFiles/Estudo_por_Fora.dir/Cliente.cpp.o	a2ee0c1859ee1959
+182	238	1656787453973524429	Estudo_por_Fora	46777547fc8c19ff
+0	202	1656793801635135910	CMakeFiles/Estudo_por_Fora.dir/Pessoa.cpp.o	fd5f036bc2a47275
+0	204	1656793801635135910	CMakeFiles/Estudo_por_Fora.dir/main.cpp.o	a9845495d67fb54
+0	207	1656793801639135908	CMakeFiles/Estudo_por_Fora.dir/Cliente.cpp.o	a2ee0c1859ee1959
+208	280	1656793801711135879	Estudo_por_Fora	46777547fc8c19ff
+1	281	1657047323601281942	CMakeFiles/Estudo_por_Fora.dir/main.cpp.o	a9845495d67fb54
+281	347	1657047323665281516	Estudo_por_Fora	46777547fc8c19ff
+1	198	1657052286076931035	CMakeFiles/Estudo_por_Fora.dir/main.cpp.o	a9845495d67fb54
+1	198	1657052286076931035	CMakeFiles/Estudo_por_Fora.dir/Pessoa.cpp.o	fd5f036bc2a47275
+1	205	1657052286084931017	CMakeFiles/Estudo_por_Fora.dir/Cliente.cpp.o	a2ee0c1859ee1959
+205	262	1657052286140930896	Estudo_por_Fora	46777547fc8c19ff
