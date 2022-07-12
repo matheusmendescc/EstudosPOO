@@ -97,29 +97,11 @@ int main() {
         }
         c++;
     }
-
-    //Lista de Placas de Carro
-    cout << "Lista das placas de Carro: " << endl;
-    for(c = 0; c < i; c++){
-        cout << c+1 << "- " << placaCarro.back() << " ---- " << estadoUFC.back() << endl;
-        placaCarro.pop_back();
-        estadoUFC.pop_back();
-    }
-    cout << endl;
-    //Lista de Placas de Moto
-    cout << "Lista das placas de Moto: " << endl;
-    for(c = 0; c < i; c++){
-        cout << c+1 << "- " << placaMoto.back() << " ---- " << estadoUFM.back() << endl;
-        placaMoto.pop_back();
-        estadoUFM.pop_back();
-    }
-
     //While - Deseja retirar o carro da Placa tal
     //Aqui entra o Delete
     cout << endl;
     carro.readCarro(lc); //Read - Carro
     moto.readMoto(lm); // Read - Moto
-
 
     return 0;
 }
