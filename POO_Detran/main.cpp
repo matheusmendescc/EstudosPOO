@@ -59,7 +59,8 @@ int main() {
 
             //toString() - Carro
             Carro c1(marca, modelo, ano, placaC, portas, tipoMala);
-            //c1.toString();
+            cout << endl;
+            c1.toString();
             cout << endl;
 
             // Lista de Carros
@@ -87,7 +88,8 @@ int main() {
 
             //toString() - Moto
             Moto m1(marca, modelo, ano, placaM, cilindradas);
-            //m1.toString();
+            cout << endl;
+            m1.toString();
             cout << endl;
 
             // Lista de Motos
