@@ -41,4 +41,5 @@ void Carro::toString() {
     } else{
         cout << "Tipo de Mala: " << "Sedan" << endl;
     }
+    cout << endl;
 }

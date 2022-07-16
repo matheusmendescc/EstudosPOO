@@ -26,4 +26,5 @@ void Moto::toString() {
     cout << "Ano: " << getAno() << endl;
     cout << "Placa: " << getPlaca()<< endl;
     cout << "Cilindradas: " << getCilindradas();
+    cout << endl;
 }
